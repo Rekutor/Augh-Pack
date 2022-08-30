@@ -13,21 +13,18 @@
 </p>
 
 # Augh-Pack
-minecraft resourcepack
 
 ### Description:
 Its an ordinary resourcepack,
-with the main purpose to change the sound of ONE single sound.
+with the main purpose to change the sound of **ONE** single sound file.
 
 ### Featurelist:
 - enderman stare sound replaced with "Augh" -sound
 
 ### Planned:
-- nothing planned so far
+- nothing really planned so far
 - might add more meme Sounds to improve this pack
 - might make this a whole meme pack
-
-
 
 ### Removed:
 - none
