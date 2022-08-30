@@ -18,6 +18,13 @@
 Its an ordinary resourcepack,
 with the main purpose to change the sound of **ONE** single sound file.
 
+### Installation
+```
+- Download this repo as zip file, extract it and copy the Augh-Pack folder
+- Press Windows + r and type %appdata%
+- go into .minecraft and search for a resourcepack folder
+- now paste the copied Augh-Pack folder in the resourcepack folder
+```
 ### Featurelist:
 - enderman stare sound replaced with "Augh" -sound
 
