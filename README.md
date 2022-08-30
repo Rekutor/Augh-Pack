@@ -16,9 +16,11 @@
 
 ### Description:
 Its an ordinary resourcepack,
-with the main purpose to change the sound of **ONE** single sound file.
-If there are any Questions, feel free to contact me on Instagram or create an Issue.
+with the main purpose to change the sound of **ONE** single sound file. <br/>
+If there are any Questions, feel free to contact me on Instagram or create an Issue.<br/>
 I might create a Discord Server for Questions if i keep on improving this pack.
+
+**IF THERE ARE ANY SUGGESTIONS TO THIS PACK PLEASE TELL ME IN THE ISSUES**
 
 ### Installation
 ```
