@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRekutor%2FAugh-Pack&count_bg=%23833AB4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Rekutor/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rekutor?color=%23833AB4&logo=github&style=flat-square"></a>
-<a href="https://github.com/Rekutor/Augh-Pack/"><img title="Stars" src="https://img.shields.io/github/stars/Rekutor/Augh-Pack?color=%23833AB4&logo=github&style=flat-square"></a>
+<a href="https://github.com/Rekutor/Augh-Pack/"><img title="Stars" src="https://img.shields.io/github/stars/Rekutor/Augh-Pack?color=%23833AB4&logo=github&style=flat-square](https://img.shields.io/github/stars/Rekutor/Augh-Pack?color=%23833AB4"></a>
 <a href="https://github.com/Rekutor/Augh-Pack/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rekutor/Augh-Pack?color=%23833AB4"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-%23833AB4?style=flat-square"/></a>
 </p>
