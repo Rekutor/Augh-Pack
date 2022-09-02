@@ -24,7 +24,8 @@ I might create a Discord Server for Questions if i keep on improving this pack.
 
 ### Installation
 ```
-- Download this repo as zip file, extract it and copy the Augh-Pack folder
+- Download this repo as zip file, extract it and copy the "Augh-Pack" folder (be sure to copy the right one, its kinda nested)
+  the correct folder is inside Augh-Pack-1.0.0.zip\Augh-Pack-1.0.0\
 - Press Windows + r and type %appdata%
 - go into .minecraft and search for a resourcepack folder
 - now paste the copied Augh-Pack folder in the resourcepack folder
